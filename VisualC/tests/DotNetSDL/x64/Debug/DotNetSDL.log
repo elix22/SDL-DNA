@@ -1,0 +1,2 @@
+﻿  dna_main.c
+e:\compilers\sdl-dna\sdl-mirror-master\visualc\tests\dotnetsdl\src\dna_main.c(17): fatal error C1083: Cannot open include file: 'Compat.h': No such file or directory

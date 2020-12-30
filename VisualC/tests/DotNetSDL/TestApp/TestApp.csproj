@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D82CC465-5B95-4D07-B0A7-84B8C497AF39}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TestApp</RootNamespace>
+    <AssemblyName>TestApp</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>0</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>TestApp.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="cha10-AnonymousMethods.cs" />
+    <Compile Include="chap10-ActionAndFuncDelegates.cs" />
+    <Compile Include="chap10-CarDelegate.cs" />
+    <Compile Include="chap10-CarDelegateMethodGroupConversion.cs" />
+    <Compile Include="chap10-CarDelegateWithLambdas.cs" />
+    <Compile Include="chap10-CarEvents.cs" />
+    <Compile Include="chap10-GenericDelegate.cs" />
+    <Compile Include="chap10-GenericPrimAndProperCarEvents.cs" />
+    <Compile Include="chap10-LambdaExpressionsMultipleParams.cs" />
+    <Compile Include="chap10-PrimAndProperCarEvents.cs" />
+    <Compile Include="chap10-PublicDelegateProblem.cs" />
+    <Compile Include="chap10-SimpleDelegate.cs" />
+    <Compile Include="chap10-SimpleLambdaExpressions.cs" />
+    <Compile Include="chap11-AnonymousTypes.cs" />
+    <Compile Include="chap11-CustomConversions.cs" />
+    <Compile Include="chap11-InterfaceExtensions.cs" />
+    <Compile Include="chap11-OverloadedOps.cs" />
+    <Compile Include="chap11-StringIndexer.cs" />
+    <Compile Include="chap19-AddWithThreads.cs" />
+    <Compile Include="chap19-AsyncDelegate.cs" />
+    <Compile Include="chap19-MultiThreadedPrintingcs.cs" />
+    <Compile Include="chap19-SimpleMultiThreadApp.cs" />
+    <Compile Include="chap19-ThreadPoolApp.cs" />
+    <Compile Include="chap5-AutoProps.cs" />
+    <Compile Include="chap5-ConstData.cs" />
+    <Compile Include="chap5-EmployeeApp.cs" />
+    <Compile Include="chap5-EmployeeAppPartial.cs" />
+    <Compile Include="chap5-ObjectInitializers.cs" />
+    <Compile Include="chap5-SimpleClassExample.cs" />
+    <Compile Include="chap5-SimpleUtilityClass.cs" />
+    <Compile Include="chap5-StaticDataAndMembers.cs" />
+    <Compile Include="chap6-BasicInheritance.cs" />
+    <Compile Include="chap6-Employees.cs" />
+    <Compile Include="chap6-Shapes.cs" />
+    <Compile Include="chap8-CloneablePoint.cs" />
+    <Compile Include="chap8-ComparableCar.cs" />
+    <Compile Include="DelegateDemo.cs" />
+    <Compile Include="DelegateDemo3.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Executive .cs" />
+    <Compile Include="chap4-FunWithArrays.cs" />
+    <Compile Include="chap4-FunWithEnums.cs" />
+    <Compile Include="chap4-FunWithMethods.cs" />
+    <Compile Include="chap4-FunWithStructures.cs" />
+    <Compile Include="Home.cs" />
+    <Compile Include="IShape.cs" />
+    <Compile Include="chap4-MethodOverloading.cs" />
+    <Compile Include="chap4-NullableTypes.cs" />
+    <Compile Include="chap6-ObjectOverrides.cs" />
+    <Compile Include="chap4-RefTypeValTypeParams.cs" />
+    <Compile Include="Room.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Square .cs" />
+    <Compile Include="chap4-ValueAndReferenceTypes.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\System.Core\System.Core.csproj">
+      <Project>{429c3225-3a36-427a-a44e-2aa3563fcd6d}</Project>
+      <Name>System.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System\System.csproj">
+      <Project>{388f5d73-0211-4a64-b501-92cdc4e32acf}</Project>
+      <Name>System</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

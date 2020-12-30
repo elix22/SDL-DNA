@@ -1,0 +1,12 @@
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\obj\Release\Fibonacci.csprojResolveAssemblyReference.cache
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\bin\Release\Fibonacci.exe.config
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\bin\Release\Fibonacci.exe
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\bin\Release\Fibonacci.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\bin\Release\System.Core.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\bin\Release\System.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\bin\Release\corlib.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\bin\Release\System.Core.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\bin\Release\System.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\bin\Release\corlib.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\obj\Release\Fibonacci.exe
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\obj\Release\Fibonacci.pdb

@@ -1,0 +1,14 @@
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\bin\Debug\CrashTest.exe.config
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\bin\Debug\CrashTest.exe
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\bin\Debug\CrashTest.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\obj\Debug\CrashTest.csprojAssemblyReference.cache
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\obj\Debug\CrashTest.csproj.CoreCompileInputs.cache
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\obj\Debug\CrashTest.exe
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\obj\Debug\CrashTest.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\bin\Debug\System.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\bin\Debug\corlib.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\bin\Debug\System.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\bin\Debug\corlib.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\obj\Debug\CrashTest.csproj.CopyComplete
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\bin\Debug\System.Core.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\CrashTest\CrashTest\bin\Debug\System.Core.pdb

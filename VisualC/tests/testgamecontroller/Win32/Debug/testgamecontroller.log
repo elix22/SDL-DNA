@@ -1,0 +1,36 @@
+﻿  Copying axis.bmp
+          1 file(s) copied.
+  Copying button.bmp
+          1 file(s) copied.
+  Copying controllermap.bmp
+          1 file(s) copied.
+  testgamecontroller.c
+     Creating library F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\Win32\Debug\testgamecontroller.lib and object F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\Win32\Debug\testgamecontroller.exp
+SDL2.lib(SDL_systimer.obj) : error LNK2019: unresolved external symbol __imp__timeGetTime@0 referenced in function _SDL_GetTicks_REAL
+SDL2.lib(SDL_systimer.obj) : error LNK2019: unresolved external symbol __imp__timeBeginPeriod@4 referenced in function _SDL_SetSystemTimerResolution
+SDL2.lib(SDL_systimer.obj) : error LNK2019: unresolved external symbol __imp__timeEndPeriod@4 referenced in function _SDL_SetSystemTimerResolution
+SDL2.lib(SDL_windowskeyboard.obj) : error LNK2019: unresolved external symbol _GetFileVersionInfoSizeA@8 referenced in function _IME_GetId
+SDL2.lib(SDL_windowskeyboard.obj) : error LNK2019: unresolved external symbol _GetFileVersionInfoA@16 referenced in function _IME_GetId
+SDL2.lib(SDL_windowskeyboard.obj) : error LNK2019: unresolved external symbol _VerQueryValueA@16 referenced in function _IME_GetId
+SDL2.lib(SDL_windowskeyboard.obj) : error LNK2019: unresolved external symbol _ImmGetIMEFileNameA@12 referenced in function _IME_SetupAPI
+SDL2.lib(SDL_windowskeyboard.obj) : error LNK2019: unresolved external symbol _ImmGetContext@4 referenced in function _WIN_SetTextInputRect
+SDL2.lib(SDL_windowskeyboard.obj) : error LNK2019: unresolved external symbol _ImmReleaseContext@8 referenced in function _WIN_SetTextInputRect
+SDL2.lib(SDL_windowskeyboard.obj) : error LNK2019: unresolved external symbol _ImmAssociateContext@8 referenced in function _IME_Enable
+SDL2.lib(SDL_windowskeyboard.obj) : error LNK2019: unresolved external symbol _ImmGetCompositionStringW@16 referenced in function _IME_GetCompositionString
+SDL2.lib(SDL_windowskeyboard.obj) : error LNK2019: unresolved external symbol _ImmSetCompositionStringW@24 referenced in function _IME_ClearComposition
+SDL2.lib(SDL_windowskeyboard.obj) : error LNK2019: unresolved external symbol _ImmGetCandidateListW@16 referenced in function _IME_GetCandidateList
+SDL2.lib(SDL_windowskeyboard.obj) : error LNK2019: unresolved external symbol _ImmNotifyIME@16 referenced in function _IME_ClearComposition
+SDL2.lib(SDL_windowskeyboard.obj) : error LNK2019: unresolved external symbol _ImmSetCompositionWindow@8 referenced in function _WIN_SetTextInputRect
+SDL2.lib(SDL_winmm.obj) : error LNK2019: unresolved external symbol __imp__waveOutGetNumDevs@0 referenced in function _DetectWaveOutDevs
+SDL2.lib(SDL_winmm.obj) : error LNK2019: unresolved external symbol __imp__waveOutGetDevCapsW@12 referenced in function _DetectWaveOutDevs
+SDL2.lib(SDL_winmm.obj) : error LNK2019: unresolved external symbol __imp__waveOutGetErrorTextW@12 referenced in function _SetMMerror
+SDL2.lib(SDL_winmm.obj) : error LNK2019: unresolved external symbol __imp__waveOutOpen@24 referenced in function _PrepWaveFormat
+SDL2.lib(SDL_winmm.obj) : error LNK2019: unresolved external symbol __imp__waveOutClose@4 referenced in function _WINMM_CloseDevice
+SDL2.lib(SDL_winmm.obj) : error LNK2019: unresolved external symbol __imp__waveOutPrepareHeader@12 referenced in function _WINMM_OpenDevice
+SDL2.lib(SDL_winmm.obj) : error LNK2019: unresolved external symbol __imp__waveOutUnprepareHeader@12 referenced in function _WINMM_CloseDevice
+SDL2.lib(SDL_winmm.obj) : error LNK2019: unresolved external symbol __imp__waveOutWrite@12 referenced in function _WINMM_PlayDevice
+SDL2.lib(SDL_winmm.obj) : error LNK2019: unresolved external symbol __imp__waveInGetNumDevs@0 referenced in function _DetectWaveInDevs
+SDL2.lib(SDL_winmm.obj) : error LNK2019: unresolved external symbol __imp__waveInGetDevCapsW@12 referenced in function _DetectWaveInDevs
+SDL2.lib(SDL_winmm.obj) : error LNK2019: unresolved external symbol __imp__waveInOpen@24 referenced in function _PrepWaveFormat
+SDL2.lib(SDL_winmm.obj) : error LNK2019: unresolved external symbol __imp__waveInClose@4 referenced in function _WINMM_CloseDevice
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\Win32\Debug\testgamecontroller.exe : fatal error LNK1120: 27 unresolved externals

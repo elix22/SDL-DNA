@@ -1,0 +1,10 @@
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\AsyncDelegate\bin\Debug\AsyncDelegate.exe.config
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\AsyncDelegate\bin\Debug\AsyncDelegate.exe
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\AsyncDelegate\bin\Debug\AsyncDelegate.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\AsyncDelegate\bin\Debug\System.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\AsyncDelegate\bin\Debug\corlib.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\AsyncDelegate\bin\Debug\System.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\AsyncDelegate\bin\Debug\corlib.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\AsyncDelegate\obj\Debug\AsyncDelegate.csprojResolveAssemblyReference.cache
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\AsyncDelegate\obj\Debug\AsyncDelegate.exe
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\AsyncDelegate\obj\Debug\AsyncDelegate.pdb

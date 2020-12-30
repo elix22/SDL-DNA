@@ -1,0 +1,121 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/arch:SSE'
+  JIT_Execute.c
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(273): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(273): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(273): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(273): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(273): error C2065: 'noCode': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(273): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(273): error C2146: syntax error: missing ';' before identifier 'pAddr'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(273): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(281): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(281): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(281): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(281): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(281): error C2065: 'JIT_GoNext_start': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(281): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(281): error C2146: syntax error: missing ';' before identifier 'jitCodeGoNext'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(281): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(282): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(282): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(282): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(282): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(282): error C2065: 'JIT_GoNext_end': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(282): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(282): error C2146: syntax error: missing ';' before identifier 'jitCodeGoNext'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(282): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(286): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(286): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(286): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(286): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(286): error C2065: 'JIT_NOP_start': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(286): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(286): error C2146: syntax error: missing ';' before identifier 'pAddr'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(286): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(286): error C2065: 'JIT_NOP_end': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(287): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(287): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(287): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(287): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(287): error C2065: 'JIT_RETURN_start': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(287): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(287): error C2146: syntax error: missing ';' before identifier 'pAddr'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(287): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(287): error C2065: 'JIT_RETURN_end': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(288): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(288): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(288): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(288): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(288): error C2065: 'JIT_LOAD_I32_start': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(288): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(288): error C2146: syntax error: missing ';' before identifier 'pAddr'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(288): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(288): error C2065: 'JIT_LOAD_I32_end': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(289): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(289): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(289): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(289): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(289): error C2065: 'JIT_BRANCH_start': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(289): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(289): error C2146: syntax error: missing ';' before identifier 'pAddr'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(289): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(289): error C2065: 'JIT_BRANCH_end': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(290): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(290): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(290): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(290): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(290): error C2065: 'JIT_LOAD_STRING_start': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(290): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(290): error C2146: syntax error: missing ';' before identifier 'pAddr'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(290): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(290): error C2065: 'JIT_LOAD_STRING_end': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(291): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(291): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(291): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(291): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(291): error C2065: 'JIT_CALLVIRT_O_start': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(291): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(291): error C2146: syntax error: missing ';' before identifier 'pAddr'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(291): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(291): error C2065: 'JIT_CALLVIRT_O_end': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(292): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(292): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(292): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(292): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(292): error C2065: 'JIT_CALL_NATIVE_start': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(292): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(292): error C2146: syntax error: missing ';' before identifier 'pAddr'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(292): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(292): error C2065: 'JIT_CALL_NATIVE_end': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(293): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(293): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(293): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(293): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(293): error C2065: 'JIT_CALL_O_start': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(293): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(293): error C2146: syntax error: missing ';' before identifier 'pAddr'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(293): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(293): error C2065: 'JIT_CALL_O_end': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(294): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(294): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(294): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(294): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(294): error C2065: 'JIT_NEWOBJECT_start': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(294): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(294): error C2146: syntax error: missing ';' before identifier 'pAddr'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(294): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(294): error C2065: 'JIT_NEWOBJECT_end': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(295): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(295): error C2065: 'mov': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(295): error C2146: syntax error: missing ';' before identifier 'edi'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(295): error C2065: 'edi': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(295): error C2065: 'JIT_LOAD_PARAMLOCAL_ADDR_start': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(295): error C2146: syntax error: missing ';' before identifier 'mov'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(295): error C2146: syntax error: missing ';' before identifier 'pAddr'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(295): error C2143: syntax error: missing ';' before '}'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(295): error C2065: 'JIT_LOAD_PARAMLOCAL_ADDR_end': undeclared identifier
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\jit_execute.c(295): fatal error C1003: error count exceeds 100; stopping compilation
+  System.IO.FileInternal.c
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\system.io.fileinternal.c(219): error C4133: 'function': incompatible types - from 'WIN32_FIND_DATA *' to 'LPWIN32_FIND_DATAW'
+e:\compilers\sdl-dna\sdl-mirror-master\src\dna\system.io.fileinternal.c(229): error C4133: 'function': incompatible types - from 'CHAR [260]' to 'U16 *'
+  Generating Code...

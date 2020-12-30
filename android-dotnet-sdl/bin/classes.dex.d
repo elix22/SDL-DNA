@@ -1,0 +1,27 @@
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes.dex : \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\BuildConfig.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\DummyEdit.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\R$attr.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\R$drawable.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\R$layout.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\R$string.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\R.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLActivity$1.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLActivity$2.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLActivity$3.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLActivity$4.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLActivity$5.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLActivity$6.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLActivity$SDLCommandHandler.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLActivity$ShowTextInputTask.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLActivity.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLGenericMotionListener_API12.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLInputConnection.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLJoystickHandler.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLJoystickHandler_API12$RangeComparator.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLJoystickHandler_API12$SDLJoystick.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLJoystickHandler_API12.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLMain.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLSurface$1.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\classes\org\libsdl\app\SDLSurface.class \
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\android-dotnet-sdl\bin\dexedLibs\annotations-d4e119f6ffb98a54a9dd9ace67278d4b.jar \

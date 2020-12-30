@@ -1,0 +1,14 @@
+F:\COMPILERS\DotNetAnywhere-master\System\bin\Release\System.dll
+F:\COMPILERS\DotNetAnywhere-master\System\bin\Release\System.pdb
+F:\COMPILERS\DotNetAnywhere-master\System\bin\Release\corlib.dll
+F:\COMPILERS\DotNetAnywhere-master\System\bin\Release\corlib.pdb
+F:\COMPILERS\DotNetAnywhere-master\System\obj\Release\System.csprojResolveAssemblyReference.cache
+F:\COMPILERS\DotNetAnywhere-master\System\obj\Release\System.dll
+F:\COMPILERS\DotNetAnywhere-master\System\obj\Release\System.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\System\bin\Release\System.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\System\bin\Release\System.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\System\bin\Release\corlib.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\System\bin\Release\corlib.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\System\obj\Release\System.csprojResolveAssemblyReference.cache
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\System\obj\Release\System.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\System\obj\Release\System.pdb

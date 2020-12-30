@@ -1,0 +1,12 @@
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\EnumTest\bin\Debug\EnumTest.exe.config
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\EnumTest\bin\Debug\EnumTest.exe
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\EnumTest\bin\Debug\EnumTest.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\EnumTest\bin\Debug\System.Core.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\EnumTest\bin\Debug\System.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\EnumTest\bin\Debug\corlib.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\EnumTest\bin\Debug\System.Core.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\EnumTest\bin\Debug\System.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\EnumTest\bin\Debug\corlib.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\EnumTest\obj\Debug\EnumTest.csprojResolveAssemblyReference.cache
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\EnumTest\obj\Debug\EnumTest.exe
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\EnumTest\obj\Debug\EnumTest.pdb

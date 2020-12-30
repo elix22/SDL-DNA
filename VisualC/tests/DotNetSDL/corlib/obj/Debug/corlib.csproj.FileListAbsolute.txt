@@ -1,0 +1,14 @@
+F:\COMPILERS\DotNetAnywhere-master\corlib\bin\Debug\corlib.dll
+F:\COMPILERS\DotNetAnywhere-master\corlib\bin\Debug\corlib.pdb
+F:\COMPILERS\DotNetAnywhere-master\corlib\obj\Debug\corlib.dll
+F:\COMPILERS\DotNetAnywhere-master\corlib\obj\Debug\corlib.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\corlib\bin\Debug\corlib.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\corlib\bin\Debug\corlib.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\corlib\obj\Debug\corlib.dll
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\corlib\obj\Debug\corlib.pdb
+F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\corlib\obj\Debug\corlib.csproj.CoreCompileInputs.cache
+E:\Compilers\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\corlib\bin\Debug\corlib.dll
+E:\Compilers\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\corlib\bin\Debug\corlib.pdb
+E:\Compilers\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\corlib\obj\Debug\corlib.csproj.CoreCompileInputs.cache
+E:\Compilers\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\corlib\obj\Debug\corlib.dll
+E:\Compilers\SDL-DNA\SDL-mirror-master\VisualC\tests\DotNetSDL\corlib\obj\Debug\corlib.pdb

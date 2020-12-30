@@ -1,0 +1,12 @@
+﻿___[MOD] F:\COMPILERS\SDL-DNA\SDL-mirror-master\VisualC\tests\Fibonacci\bin\Debug\Fibonacci.exe
+   |      M A N I F E S T
+   |___[NSP] Fibonacci
+   |   |___[CLS] Fibonacci.Program
+   |   |   |     .class private auto ansi beforefieldinit 
+   |   |   |___[MET] .ctor : void()
+   |   |   |___[STM] Main : void(string[])
+   |   |   |___[STM] fibI : int32(int32)
+   |   |   |___[STM] fibR : int32(int32)
+   |   |
+   |
+
